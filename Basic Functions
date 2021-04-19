@@ -1,0 +1,8 @@
+Select * from tablename;
+where name = 'bob' and timestamp between '20200406' and now();
+
+create tablename;
+
+truncate table tablename;
+
+drop table;
